@@ -13,3 +13,9 @@ That's why all of our applications that can be open-source, are open-source. Fro
 
 ### 🖥️ What we use to build our systems
 We're all passionate HTML, Python, C++ and C# developers, that love to explore the limits of the languages we know and it's frameworks.
+
+### Contact
+- Report Abuse: c-abuse@crime.su
+- Support: c-support@crime.su
+- Legal: legal@crime.su
+- Business inquires: inquires@crime.su
